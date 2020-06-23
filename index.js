@@ -22,4 +22,4 @@ function submitData(name, email) {
   .catch(function (error) {
     document.body.innerHTML = error.message
     })
-}
+} // maybe review this with jen in one on one?
