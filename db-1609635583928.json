@@ -52,12 +52,6 @@
       "dogName": "Byron",
       "dogBreed": "Poodle",
       "id": 10
-    },
-    {
-      "dogName": "Harper",
-      "dogBreed": "Golden lab",
-      "submit": "Submit",
-      "id": 11
     }
   ],
   "cats": [
