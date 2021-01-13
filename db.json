@@ -58,6 +58,18 @@
       "dogBreed": "Golden lab",
       "submit": "Submit",
       "id": 11
+    },
+    {
+      "dogName": "Harper",
+      "dogBreed": "Golden lab",
+      "submit": "Submit",
+      "id": 12
+    },
+    {
+      "dogName": "Harper",
+      "dogBreed": "Golden lab",
+      "submit": "Submit",
+      "id": 13
     }
   ],
   "cats": [
